@@ -1,29 +1,24 @@
 # Hola, que tal? 😺
 
-Hola, soy Gátomo. Me gustan los gatos la programación y la pesca.
+Soy Gátomo, soy un estudiante de España y me gusta programar. No soy el Mejor pero me entretengo. Programo en Java y JavaScript
+:3
 
-## Acerca de mi :U
-Tengo 4 gatos. Tienes sus fotos [en mi Instagram](https://www.instagram.com/gatomo_oficial).
+## GitHub Stats ✨
+[![Gátomo github stats](https://github-readme-stats.vercel.app/api?username=gatomo-oficial&show_icons=true&count_private=true&theme=react&extra=TheHuskyBot/Husky;Gatomo-Bunkers/Normal)](https://github.com/gatomo-oficial)
 
-Me gusta programar. Soy un noob, pero me gusta. Programo en estos lenguajes:
+## Tecnologías 🍺
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
-- [Java](https://www.java.com/es/)
-- [JavaScript](https://www.javascript.com/)
-- [HTML](https://www.w3.org/html/)
-- [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
-- [MarkDown xdddd](www.markdownguide.org)
-
-## Links
-Te paso algunos links de mis redes social
-- [Instagram](https://www.instagram.com/gatomo_oficial)
-- [GitHub](https://github.com/gatomo-oficial)
-- [Grupo de Facebook](https://www.facebook.com/groups/764154981083834)
-
-## Quieres hablar conmigo?
-Si quieres hablar conmigo puedes ir [a mi Instagram](https://www.instagram.com/gatomo_oficial) y enviarme un MD. También puedes entrar [a mi server de Discord](https://discord.gg/NmW8kYv).
-
-
-:3 :U :v Gracias por mirar la página!!!!!
 
 
 <p align="center">
@@ -35,3 +30,10 @@ Si quieres hablar conmigo puedes ir [a mi Instagram](https://www.instagram.com/g
   </a>
 </p>
 
+
+> Estadisticas: [`GitHub Readme Stats`]
+<div align="center">
+   
+   ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=gatomo-oficial.gatomo-oficial)
+   
+</div>
