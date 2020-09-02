@@ -1,6 +1,6 @@
 # Hola, que tal? 😺
 
-Soy Gátomo, soy un estudiante de España y me gusta programar. No soy el Mejor pero me entretengo. Programo en Java y JavaScript
+Soy Gátomo, soy un estudiante de **España** y me gusta programar. No soy el Mejor pero me entretengo. Programo en **Java** y **JavaScript**
 :3
 
 ## GitHub Stats ✨
@@ -19,7 +19,7 @@ Soy Gátomo, soy un estudiante de España y me gusta programar. No soy el Mejor 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
-
+> Estadisticas: [`GitHub Readme Stats`]
 
 <p align="center">
   <a href="https://github.com/gatomo-oficial">
@@ -30,9 +30,7 @@ Soy Gátomo, soy un estudiante de España y me gusta programar. No soy el Mejor 
   </a>
 </p>
 
-
-> Estadisticas: [`GitHub Readme Stats`]
-<div align="center">
+<div>
    
    ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=gatomo-oficial.gatomo-oficial)
    
