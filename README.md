@@ -3,6 +3,10 @@
 Soy Gátomo, soy un estudiante de **España** y me gusta programar. No soy el Mejor pero me entretengo. Programo en **Java** y **JavaScript**
 :3
 
+## Contactame 📬
+   - <img src="https://simpleicons.org/icons/discord.svg" alt="Discord" width="32" align="center"> [₲áȶσɱσ 😸🍺#9809](https://invite.gg/gatomo)
+   
+   
 ## GitHub Stats ✨
 [![Gátomo github stats](https://github-readme-stats.vercel.app/api?username=gatomo-oficial&show_icons=true&count_private=true&theme=react&extra=TheHuskyBot/Husky;Gatomo-Bunkers/Normal)](https://github.com/gatomo-oficial)
 
