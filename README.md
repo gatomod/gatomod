@@ -4,7 +4,7 @@ Soy Gátomo, soy un estudiante de **España** y me gusta programar. No soy el Me
 :3
 
 ## Contactame 📬
-   - <img src="https://simpleicons.org/icons/discord.svg" alt="Discord" width="32" align="center"> [₲áȶσɱσ 😸🍺#9809](https://invite.gg/gatomo)
+   - <img src="https://simpleicons.org/icons/discord.svg" alt="Discord" width="32" align="center"> [₲áȶσɱσ 😸🍺#9809](https://discord.gg/ZpWE57t)
    
    
 ## GitHub Stats ✨
