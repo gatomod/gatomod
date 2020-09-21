@@ -1,6 +1,6 @@
 # Hola, que tal? 😺
 
-Soy Gátomo, soy un estudiante de **España** y me gusta programar. No soy el Mejor pero me entretengo. Programo en **Java** y **JavaScript**
+Soy Gátomo, soy un estudiante de **España** y me gusta programar. No soy el Mejor pero me entretengo. Programo en **Java** **JavaScript** y **TypeScript**
 :3
 
 ## Contactame 📬
@@ -43,10 +43,11 @@ Soy Gátomo, soy un estudiante de **España** y me gusta programar. No soy el Me
   <a href="https://discord.gg/NmW8kYv">
     <img alt="Discord" src="https://img.shields.io/discord/685949311443271744?logo=Discord&style=for-the-badge" />
   </a>
-</p>
 
 <div>
    
    ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=gatomo-oficial.gatomo-oficial)
    
 </div>
+</p>
+
