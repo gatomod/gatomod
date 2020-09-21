@@ -24,7 +24,7 @@ Soy Gátomo, soy un estudiante de **España** y me gusta programar. No soy el Me
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
 
-> Estadisticas: [`GitHub Readme Stats`]
+> Estadisticas: [`GitHub Readme Stats`](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
   <a href="https://github.com/gatomo-oficial">
