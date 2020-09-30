@@ -3,15 +3,27 @@
 Soy Gátomo, soy un estudiante de **España** y me gusta programar. No soy el Mejor pero me entretengo. Programo en **Java** **JavaScript** y **TypeScript**
 :3
 
-## Contactame 📬
-   - <img src="https://simpleicons.org/icons/discord.svg" alt="Discord" width="32" align="center"> [Gátomo#9809](https://discord.gg/ZpWE57t)
+   ## Redes sociales 📚
+   - <img src="https://simpleicons.org/icons/instagram.svg" alt="Instagram" width="32" align="center">  [@gatomo_oficial](https://www.instagram.com/gatomo_oficial)
+   - <img src="https://simpleicons.org/icons/tiktok.svg" alt="TikTok" width="32" align="center">  [@gatomo_oficial](https://www.tiktok.com/@gatomo_oficial)
+   - <img src="https://simpleicons.org/icons/facebook.svg" alt="Facebook" width="32" align="center">  [Gátomo Dev](https://www.facebook.com/gatomo.gatito)
    
+
+  ## Contáctame 📬
+
+   - <img src="https://simpleicons.org/icons/gmail.svg" alt="Gmail" width="32" align="center">  [Gatomociencia@gmail.com](mailto:Gatomociencia@gmail.com)
+   - <img src="https://simpleicons.org/icons/discord.svg" alt="Discord" width="32" align="center">  [Gátomo#9809](https://discord.gg/ZpWE57t)
+   
+   
+   [![Support Server](https://discord.com/api/guilds/685949311443271744/embed.png?style=banner4)](https://discord.gg/ZpWE57t)
    
 ## GitHub Stats ✨
 [![Gátomo github stats](https://github-readme-stats.vercel.app/api?username=gatomo-oficial&show_icons=true&count_private=true&theme=react&extra=TheHuskyBot/Husky;Gatomo-Bunkers/Normal)](https://github.com/gatomo-oficial)
 
 ## Tecnologías 🍺
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js) 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) 
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java) 
