@@ -35,6 +35,8 @@ Soy Gátomo, soy un estudiante de **España** y me gusta programar. No soy el Me
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
+## Imagen personal 📸
+[![BrUh](https://cdn.discordapp.com/attachments/707537070641381438/763377999122137108/3maipx.jpg)](https://cdn.discordapp.com/attachments/707537070641381438/763377999122137108/3maipx.jpg)
 
 > Estadisticas: [`GitHub Readme Stats`](https://github.com/anuraghazra/github-readme-stats)
 
