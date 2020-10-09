@@ -19,7 +19,7 @@ Soy Gátomo, soy un estudiante de **España** y me gusta programar. No soy el Me
    
    <br />
    
-   <div align="center">
+   <div>
   <br />
   <p>
     <a href="https://discord.gg/ZpWE57t"><img src="https://discord.com/api/guilds/685949311443271744/embed.png?style=banner3" alt="Discord" /></a>
