@@ -1,6 +1,6 @@
 # Hola, que tal? 😺
 
-Soy Gátomo, soy un estudiante de **España** y me gusta programar. No soy el Mejor pero me entretengo. Programo en **Java** **JavaScript** y **TypeScript**
+Soy Gátomo, soy un estudiante de **España** y me gusta programar. No soy el mejor pero me entretengo. Programo en **JavaScript**, con unos mínimos conocimientos de **Java** y **TypeScript**
 :3
 
 <br />
@@ -28,27 +28,38 @@ Soy Gátomo, soy un estudiante de **España** y me gusta programar. No soy el Me
   
    <br />
    
+   ## Tecnologías 🍺
+
+![Javascript](https://img.shields.io/static/v1?label=JavaScript&message=Have%20a%20coffee%20☕&style=for-the-badge&color=F7DF1E&logo=JavaScript)
+![Typescript](https://img.shields.io/static/v1?label=TypeScript&message=Have%20a%20flooded%20coffee%20🌊☕&color=007ACC&style=for-the-badge&logo=typescript)
+![Nodejs](https://img.shields.io/static/v1?label=Nodejs&message=node%20src%2Fgátomo.js%20😸&color=68a063&style=for-the-badge&logo=Node.js)
+![VSCode](https://img.shields.io/static/v1?label=VSCode&message=Mi%20editor%20:v%20🧻&style=for-the-badge&color=1e88e5&logo=visual-studio-code)
+![MongoDB](https://img.shields.io/static/v1?label=MongoDB&message=Árbol%20de%20datos%20:v%20🍃&style=for-the-badge&color=3FA037&logo=MongoDB)
+![Git](https://img.shields.io/static/v1?label=Git&message=Fork%20this%20repo%20🍴&style=for-the-badge&color=f34f29&logo=git)
+![GitHub](https://img.shields.io/static/v1?label=GitHub&message=Gato%20pulpo%20🐱🐙&style=for-the-badge&color=fff&logo=github)
+![Heroku](https://img.shields.io/static/v1?label=Heroku&message=Hosting%20que%20parece%20japonés%20:v%20👘&style=for-the-badge&color=430098&logo=Heroku)
+![React](https://img.shields.io/static/v1?label=React&message=Reactor%20nuclear%20☢📻&style=for-the-badge&color=61DBFB&logo=react) 
+![Java](https://img.shields.io/static/v1?label=Java&message=Have%20another%20coffee%20☕☕☕☕☕☕&style=for-the-badge&color=f89820&logo=java) 
+![HTML5](https://img.shields.io/static/v1?label=HTML&message=Esto%20es%20un%20lenguaje%3F%20❓❔&style=for-the-badge&color=F16529&logo=html5) 
+![CSS3](https://img.shields.io/static/v1?label=CSS&message=Pinto%20HTMLs%20por%203%20euros%20💰🎨&style=for-the-badge&color=2965f1&logo=css3)
+
+<br />
+
 ## GitHub Stats ✨
-[![Gátomo github stats](https://github-readme-stats.vercel.app/api?username=gatomo-oficial&show_icons=true&count_private=true&theme=react&extra=TheHuskyBot/Husky;Gatomo-Bunkers/Normal)](https://github.com/gatomo-oficial)
+
+<table>
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=gatomo-oficial&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&theme=react&hide_border=true&hide_title=true&count_private=true" />
+    </td>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=gatomo-oficial&layout=compact&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&theme=react&hide_border=true&count_private=true&extra=dasby-project/Dasby;normal-project/Normal" />
+    </td>
+  </tr>
+</table>
 
 <br />
 
-## Tecnologías 🍺
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js) 
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) 
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java) 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-
-<br />
 
 ## Imagen personal(mentira xd) 📸
 [![BrUh](https://cdn.discordapp.com/attachments/707537070641381438/763377999122137108/3maipx.jpg)](https://cdn.discordapp.com/attachments/707537070641381438/763377999122137108/3maipx.jpg)
