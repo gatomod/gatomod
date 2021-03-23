@@ -14,7 +14,7 @@ Soy Gátomo, soy un estudiante de **España** y me gusta programar. No soy el me
 
   ## Contáctame 📬
 
-   - <img src="https://simpleicons.org/icons/gmail.svg" alt="Gmail" width="32" align="center">  [Gatomociencia@gmail.com](mailto:Gatomociencia@gmail.com)
+   - <img src="https://simpleicons.org/icons/gmail.svg" alt="Gmail" width="32" align="center">  [Gatomociencia+github@gmail.com](mailto:Gatomociencia+github@gmail.com)
    - <img src="https://simpleicons.org/icons/discord.svg" alt="Discord" width="32" align="center">  [Gátomo#9809](https://discord.gg/ZpWE57t)
    
    <br />
