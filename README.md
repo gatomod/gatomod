@@ -1,6 +1,6 @@
 # Hola, que tal? 😺
 
-Soy Gátomo, soy un estudiante de **España** y me gusta programar. No soy el mejor pero me entretengo. Programo en **JavaScript**, con unos mínimos conocimientos de **Java** y **TypeScript**
+Soy Gátomo, soy un estudiante de **España** y me gusta programar. No soy el mejor pero me entretengo. Programo en **`TypeScript`** y **`JavaScript`**, con unos mínimos conocimientos de **`Java`**
 :3
 
 <br />
@@ -14,8 +14,8 @@ Soy Gátomo, soy un estudiante de **España** y me gusta programar. No soy el me
 
   ## Contáctame 📬
 
-   - <img src="https://simpleicons.org/icons/gmail.svg" alt="Gmail" width="32" align="center">  [Gatomociencia+github@gmail.com](mailto:Gatomociencia+github@gmail.com)
-   - <img src="https://simpleicons.org/icons/discord.svg" alt="Discord" width="32" align="center">  [Gátomo#9809](https://discord.gg/ZpWE57t)
+   - <img src="https://simpleicons.org/icons/gmail.svg" alt="Gmail" width="32" align="center">  [`Gatomociencia+github@gmail.com`](mailto:Gatomociencia+github@gmail.com)
+   - <img src="https://simpleicons.org/icons/discord.svg" alt="Discord" width="32" align="center">  [`Gátomo#9809`](https://discord.gg/ZpWE57t)
    
    <br />
    
