@@ -1,7 +1,7 @@
-# Hola, que tal? 😺
+# Hola 👋
 
-Soy Gátomo, soy un estudiante de **España** y me gusta programar. No soy el mejor pero me entretengo. Programo en **`TypeScript`** y **`JavaScript`**, con unos mínimos conocimientos de **`Java`**
-:3
+Soy Gátomo, soy un estudiante de **España** y me gusta programar en mi tiempo libre. Aprendo rápido nuevas tecnologías sin mucha dificultad. Programo en **`TypeScript`** y **`JavaScript`**, con unos mínimos conocimientos de **`Java`**
+
 
 <br />
 
