@@ -1,6 +1,6 @@
 # Hola 👋
 
-Soy Gátomo, soy un estudiante de **España** y me gusta programar en mi tiempo libre. Aprendo rápido nuevas tecnologías sin mucha dificultad. Programo en **`TypeScript`** y **`JavaScript`**, con unos mínimos conocimientos de **`Java`**
+Soy Gátomo, soy un estudiante de **España** y me gusta programar en mi tiempo libre. Aprendo rápido nuevas tecnologías sin mucha dificultad. Tengo conocimientos medios en **`TypeScript`** y **`JavaScript`**, con unos mínimos conocimientos de **`Java`**
 
 
 <br />
