@@ -1,6 +1,6 @@
 # Hola 👋
 
-Soy Gátomo, soy un estudiante de **España** y me gusta programar en mi tiempo libre. Aprendo rápido nuevas tecnologías sin mucha dificultad. Tengo conocimientos medios en **`TypeScript`** y **`JavaScript`**, con unos mínimos conocimientos de **`Java`**
+Soy Gátomo, soy un estudiante de informática **español** y me gusta programar en mi tiempo libre. Aprendo rápido nuevas tecnologías sin mucha dificultad. Tengo conocimientos medios en **`TypeScript`** y **`JavaScript`**, con unos mínimos conocimientos de **`Java`** y **`Python`**
 
 
 <br />
@@ -38,7 +38,12 @@ Soy Gátomo, soy un estudiante de **España** y me gusta programar en mi tiempo 
 ![React](https://img.shields.io/static/v1?label=React&message=React%20☢📻&style=for-the-badge&color=61DBFB&logo=react) 
 ![Java](https://img.shields.io/static/v1?label=Java&message=Java%20☕&style=for-the-badge&color=f89820&logo=java) 
 ![HTML5](https://img.shields.io/static/v1?label=HTML&message=HTML%20es%20un%20lenguaje%3F%20❓❔&style=for-the-badge&color=F16529&logo=html5) 
-![CSS3](https://img.shields.io/static/v1?label=CSS&message=CSS🎨&style=for-the-badge&color=2965f1&logo=css3)
+![CSS3](https://img.shields.io/static/v1?label=CSS&message=CSS%20🎨&style=for-the-badge&color=2965f1&logo=css3)
+![Python](https://img.shields.io/static/v1?label=Python&message=Python%20🐍&style=for-the-badge&color=3776AB&logo=python)
+![vuejs](https://img.shields.io/static/v1?label=vue&message=Vue%20JS%20✌️&style=for-the-badge&color=4FC08D&logo=vue)
+![linux](https://img.shields.io/static/v1?label=Linux&message=Linux%20🐧&style=for-the-badge&color=FCC624&logo=linux)
+
+
 
 <br />
 
