@@ -1,6 +1,6 @@
 # Hola 👋
 
-Soy Gátomo, soy un estudiante de informática **español** y me gusta programar en mi tiempo libre. Aprendo rápido nuevas tecnologías sin mucha dificultad. Tengo conocimientos medios en **`TypeScript`** y **`JavaScript`**, con unos mínimos conocimientos de **`Java`** y **`Python`**
+Soy Gátomo, soy un estudiante de informática **español** y me gusta programar en mi tiempo libre. Aprendo rápido nuevas tecnologías sin mucha dificultad. Tengo conocimientos medios en **`TypeScript`** y **`JavaScript`** y unos mínimos conocimientos de **`Java`** y **`Python`**
 
 
 <br />
