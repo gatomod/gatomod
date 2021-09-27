@@ -6,12 +6,12 @@ Soy Gátomo, soy un estudiante de informática **español** y me gusta programar
 <br />
 
    ## Redes sociales 📚
-   [Clic aquí](https://linktr.ee/gatomo)
+   [Click aquí](https://linktr.ee/gatomo)
    <br />
 
   ## Contáctame 📬
 
-   - <img src="https://simpleicons.org/icons/discord.svg" alt="Discord" width="32" align="center">  [`Server de Discord`](https://discord.gg/ZpWE57t)
+   - <img src="https://simpleicons.org/icons/discord.svg" alt="Discord" width="32" align="center">  [`Server de Discord (Hackeado) :(`](https://discord.gg/ZpWE57t)
    
    <br />
    
@@ -25,22 +25,34 @@ Soy Gátomo, soy un estudiante de informática **español** y me gusta programar
    <br />
    
    ## Tecnologías 🍺
+   
+   ### Lenguajes, frameworks y librerías 😁
 
 ![Javascript](https://img.shields.io/static/v1?label=JavaScript&message=JavaScript%20☕&style=for-the-badge&color=F7DF1E&logo=JavaScript)
 ![Typescript](https://img.shields.io/static/v1?label=TypeScript&message=TypeScript%20>4.0%20🎏&color=007ACC&style=for-the-badge&logo=typescript)
-![Nodejs](https://img.shields.io/static/v1?label=Nodejs&message=node%20src%2Fgátomo.js%20😸&color=68a063&style=for-the-badge&logo=Node.js)
-![VSCode](https://img.shields.io/static/v1?label=VSCode&message=Mi%20editor%20🧻&style=for-the-badge&color=1e88e5&logo=visual-studio-code)
-![MongoDB](https://img.shields.io/static/v1?label=MongoDB&message=Mongo%20DB%20🍃&style=for-the-badge&color=3FA037&logo=MongoDB)
-![Git](https://img.shields.io/static/v1?label=Git&message=Fork%20this%20repo%20🍴&style=for-the-badge&color=f34f29&logo=git)
-![GitHub](https://img.shields.io/static/v1?label=GitHub&message=github.com%2Fgatomo-oficial%20🐱🐙&style=for-the-badge&color=fff&logo=github)
-![Heroku](https://img.shields.io/static/v1?label=Heroku&message=Heroku%20👘&style=for-the-badge&color=430098&logo=Heroku)
-![React](https://img.shields.io/static/v1?label=React&message=React%20☢📻&style=for-the-badge&color=61DBFB&logo=react) 
 ![Java](https://img.shields.io/static/v1?label=Java&message=Java%20☕&style=for-the-badge&color=f89820&logo=java) 
 ![HTML5](https://img.shields.io/static/v1?label=HTML&message=HTML%20es%20un%20lenguaje%3F%20❓❔&style=for-the-badge&color=F16529&logo=html5) 
 ![CSS3](https://img.shields.io/static/v1?label=CSS&message=CSS%20🎨&style=for-the-badge&color=2965f1&logo=css3)
 ![Python](https://img.shields.io/static/v1?label=Python&message=Python%20🐍&style=for-the-badge&color=3776AB&logo=python)
 ![vuejs](https://img.shields.io/static/v1?label=vue&message=Vue%20JS%20✌️&style=for-the-badge&color=4FC08D&logo=vue)
-![linux](https://img.shields.io/static/v1?label=Linux&message=Linux%20🐧&style=for-the-badge&color=FCC624&logo=linux)
+![React](https://img.shields.io/static/v1?label=React&message=React%20☢📻&style=for-the-badge&color=61DBFB&logo=react) 
+![discord.js](https://img.shields.io/static/v1?label=discord&message=Discord.JS%20💬&style=for-the-badge&color=5865F2&logo=discord)
+
+### Editor de código 🔷
+![VSCode](https://img.shields.io/static/v1?label=VSCode&message=Mi%20editor%20🧻&style=for-the-badge&color=1e88e5&logo=visual-studio-code)
+
+### Sistema operativo 🐧
+![linux](https://img.shields.io/static/v1?label=Linux&message=Ubuntu%2020.04%20🐧&style=for-the-badge&color=FCC624&logo=linux)
+
+### Otras tecnologías 🧵
+![Nodejs](https://img.shields.io/static/v1?label=Nodejs&message=node%20src%2Fgátomo.js%20😸&color=68a063&style=for-the-badge&logo=Node.js)
+![yarn](https://img.shields.io/static/v1?label=yarn&message=Yarn%20🐱&color=2C8EBB&style=for-the-badge&logo=yarn)
+![MongoDB](https://img.shields.io/static/v1?label=MongoDB&message=Mongo%20DB%20🍃&style=for-the-badge&color=3FA037&logo=MongoDB)
+![Git](https://img.shields.io/static/v1?label=Git&message=Fork%20this%20repo%20🍴&style=for-the-badge&color=f34f29&logo=git)
+![GitHub](https://img.shields.io/static/v1?label=GitHub&message=github.com%2Fgatomo-oficial%20🐱🐙&style=for-the-badge&color=fff&logo=github)
+![Heroku](https://img.shields.io/static/v1?label=Heroku&message=Heroku%20👘&style=for-the-badge&color=430098&logo=Heroku)
+
+
 
 
 
@@ -59,6 +71,7 @@ Soy Gátomo, soy un estudiante de informática **español** y me gusta programar
   </tr>
 </table>
 
+El github se me ha bugeado y me pone mucho CSS xd
 <br />
 
 
