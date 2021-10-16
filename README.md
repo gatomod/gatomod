@@ -11,14 +11,14 @@ Soy Gátomo, soy un estudiante de informática **español** y me gusta programar
 
   ## Contáctame 📬
 
-   - <img src="https://simpleicons.org/icons/discord.svg" alt="Discord" width="32" align="center">  [`Server de Discord (Hackeado) :(`](https://discord.gg/ZpWE57t)
+   - <img src="https://simpleicons.org/icons/discord.svg" alt="Discord" width="32" align="center">  [`Server de Discord (Nueva comunidad)`](https://discord.gg/whjyNhkk9V)
    
    <br />
    
    <div>
   <br />
   <p>
-    <a href="https://discord.gg/ZpWE57t"><img src="https://discord.com/api/guilds/685949311443271744/embed.png?style=banner3" alt="Discord" /></a>
+    <a href="https://discord.gg/whjyNhkk9V"><img src="https://discord.com/api/guilds/685949311443271744/embed.png?style=banner3" alt="Discord" /></a>
   </p>
   </div>
   
