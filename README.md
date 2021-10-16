@@ -32,8 +32,8 @@ Soy Gátomo, soy un estudiante de informática **español** y me gusta programar
 ![Typescript](https://img.shields.io/static/v1?label=TypeScript&message=TypeScript%20>4.0%20🎏&color=007ACC&style=for-the-badge&logo=typescript)
 ![Java](https://img.shields.io/static/v1?label=Java&message=Java%20☕&style=for-the-badge&color=f89820&logo=java) 
 ![HTML5](https://img.shields.io/static/v1?label=HTML&message=HTML%20es%20un%20lenguaje%3F%20❓❔&style=for-the-badge&color=F16529&logo=html5) 
-![CSS3](https://img.shields.io/static/v1?label=CSS&message=CSS%20🎨&style=for-the-badge&color=2965f1&logo=css3)
-![Python](https://img.shields.io/static/v1?label=Python&message=Python%20🐍&style=for-the-badge&color=3776AB&logo=python)
+![CSS3](https://img.shields.io/static/v1?label=CSS&message=CSS3%20🎨&style=for-the-badge&color=2965f1&logo=css3)
+![Python](https://img.shields.io/static/v1?label=Python&message=Python%203.x%20🐍&style=for-the-badge&color=3776AB&logo=python)
 ![vuejs](https://img.shields.io/static/v1?label=vue&message=Vue%20JS%20✌️&style=for-the-badge&color=4FC08D&logo=vue)
 ![React](https://img.shields.io/static/v1?label=React&message=React%20☢📻&style=for-the-badge&color=61DBFB&logo=react) 
 ![discord.js](https://img.shields.io/static/v1?label=discord&message=Discord.JS%20💬&style=for-the-badge&color=5865F2&logo=discord)
@@ -47,7 +47,7 @@ Soy Gátomo, soy un estudiante de informática **español** y me gusta programar
 
 ### Otras tecnologías 🧵
 ![Nodejs](https://img.shields.io/static/v1?label=Nodejs&message=node%20src%2Fgátomo.js%20😸&color=68a063&style=for-the-badge&logo=Node.js)
-![yarn](https://img.shields.io/static/v1?label=yarn&message=Yarn%20🐱&color=2C8EBB&style=for-the-badge&logo=yarn)
+![yarn](https://img.shields.io/static/v1?label=yarn&message=Package%20manager%20🐱&color=2C8EBB&style=for-the-badge&logo=yarn)
 ![MongoDB](https://img.shields.io/static/v1?label=MongoDB&message=Mongo%20DB%20🍃&style=for-the-badge&color=3FA037&logo=MongoDB)
 ![Git](https://img.shields.io/static/v1?label=Git&message=Fork%20this%20repo%20🍴&style=for-the-badge&color=f34f29&logo=git)
 ![GitHub](https://img.shields.io/static/v1?label=GitHub&message=github.com%2Fgatomo-oficial%20🐱🐙&style=for-the-badge&color=fff&logo=github)
