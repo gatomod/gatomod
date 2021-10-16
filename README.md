@@ -43,6 +43,7 @@ Soy Gátomo, soy un estudiante de informática **español** y me gusta programar
 
 ### Sistema operativo 🐧
 ![linux](https://img.shields.io/static/v1?label=Linux&message=Ubuntu%2020.04%20🐧&style=for-the-badge&color=FCC624&logo=linux)
+![kde](https://img.shields.io/static/v1?label=KDE&message=Alguna%20versión%20de%20KDE%20Plasma%20⚙️&style=for-the-badge&color=1e88e5&logo=KDE)
 
 ### Otras tecnologías 🧵
 ![Nodejs](https://img.shields.io/static/v1?label=Nodejs&message=node%20src%2Fgátomo.js%20😸&color=68a063&style=for-the-badge&logo=Node.js)
