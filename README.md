@@ -18,7 +18,7 @@ Soy Gátomo, soy un estudiante de informática **español** y me gusta programar
    <div>
   <br />
   <p>
-    <a href="https://discord.gg/whjyNhkk9V"><img src="https://discord.com/api/guilds/685949311443271744/embed.png?style=banner3" alt="Discord" /></a>
+    <a href="https://discord.gg/whjyNhkk9V"><img src="https://discord.com/api/guilds/880947411432923136/embed.png?style=banner3" alt="Discord" /></a>
   </p>
   </div>
   
