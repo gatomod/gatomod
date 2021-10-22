@@ -60,6 +60,9 @@ Soy Gátomo, soy un estudiante de informática **español** y me gusta programar
 
 <br />
 
+## Futuros planes 🏞️
+Para el futuro quiero terminar mi bot de Discord y aprender C
+
 ## GitHub Stats ✨
 
 <table>
