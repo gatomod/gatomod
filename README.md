@@ -1,7 +1,9 @@
 # Hola 👋
 
 Soy Gátomo, soy un estudiante de informática **español** y me gusta programar en mi tiempo libre. Aprendo rápido nuevas tecnologías sin mucha dificultad. Tengo conocimientos medios en **`TypeScript`** y **`JavaScript`** y unos mínimos conocimientos de **`Java`** y **`Python`**
+
 Lo único que juego es Minecraft. Me gusta hacer casas y hacer survivals que nunca acabo xd
+
 > 👨‍💻 Ahora estoy programando mi bot de discord y aprendiendo un poco de React y REST API
 
 
