@@ -1,7 +1,8 @@
 # Hola 👋
 
 Soy Gátomo, soy un estudiante de informática **español** y me gusta programar en mi tiempo libre. Aprendo rápido nuevas tecnologías sin mucha dificultad. Tengo conocimientos medios en **`TypeScript`** y **`JavaScript`** y unos mínimos conocimientos de **`Java`** y **`Python`**
-> 👨‍💻 Ahora estoy centrado en un chat que estoy programando con vue.JS, socket.IO y tailwind css
+> 👨‍💻 Ahora estoy programando mi bot de discord y aprendiendo un poco de React y REST API
+
 
 
 <br />
@@ -61,7 +62,7 @@ Soy Gátomo, soy un estudiante de informática **español** y me gusta programar
 <br />
 
 ## Futuros planes 🏞️
-Para el futuro quiero terminar mi bot de Discord y aprender C
+Para el futuro quiero aprender C
 
 ## GitHub Stats ✨
 
