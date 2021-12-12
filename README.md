@@ -47,7 +47,7 @@ Lo único que juego es Minecraft. Me gusta hacer casas y hacer survivals que nun
 ![VSCode](https://img.shields.io/static/v1?label=VSCode&message=Mi%20editor%20🧻&style=for-the-badge&color=1e88e5&logo=visual-studio-code)
 
 ### Sistema operativo 🐧
-![linux](https://img.shields.io/static/v1?label=Linux&message=Ubuntu%2020.04%20🐧&style=for-the-badge&color=FCC624&logo=linux)
+![linux](https://img.shields.io/static/v1?label=Linux&message=Ubuntu%2021.10%20🐧&style=for-the-badge&color=FCC624&logo=linux)
 ![kde](https://img.shields.io/static/v1?label=KDE&message=Alguna%20versión%20de%20KDE%20Plasma%20⚙️&style=for-the-badge&color=1e88e5&logo=KDE)
 
 ### Otras tecnologías 🧵
