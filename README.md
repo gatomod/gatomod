@@ -102,7 +102,7 @@ El github se me ha bugeado y me pone mucho CSS xd
     <img alt="Github Followers" src="https://img.shields.io/github/followers/gatomo-oficial?logo=github&style=for-the-badge" />
   </a>
   <a href="https://discord.gg/NmW8kYv">
-    <img alt="Discord" src="https://img.shields.io/discord/685949311443271744?logo=Discord&style=for-the-badge" />
+    <img alt="Discord" src="https://img.shields.io/discord/880947411432923136?logo=Discord&style=for-the-badge" />
   </a>   
    <p align="center">
     <a href="https://github.com/gatomo-oficial">
