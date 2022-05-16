@@ -4,7 +4,7 @@ Soy Gátomo, soy un estudiante de informática **español** y me gusta programar
 
 Lo único que juego es Minecraft. Me gusta hacer casas y hacer survivals que nunca acabo xd
 
-> 👨‍💻 Ahora estoy programando mi bot de discord y aprendiendo un poco de React y REST API
+> 👨‍💻 Ahora estoy aprendiendo React, mi bot de discord está un poco muerto
 
 
 
