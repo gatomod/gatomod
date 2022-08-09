@@ -1,110 +1,194 @@
-# Hola 👋
+<div>
+	<p align="center">
+		<img src="https://cdn.discordapp.com/attachments/707537070641381438/1006633524733952091/Component_1.png" width="600" />
+	</p>
+</div>
 
-Soy Gátomo, soy un estudiante de informática **español** y me gusta programar en mi tiempo libre. Aprendo rápido nuevas tecnologías sin mucha dificultad. Tengo conocimientos medios en **`TypeScript`** y **`JavaScript`** y unos mínimos conocimientos de **`Java`** y **`Python`**
-
-Lo único que juego es Minecraft. Me gusta hacer casas y hacer survivals que nunca acabo xd
-
-
-<br />
-
-   ## Redes sociales 📚
-   [Click aquí](https://linktr.ee/gatomo)
-   <br />
-
-  ## Contáctame 📬
-
-   - <img src="https://simpleicons.org/icons/discord.svg" alt="Discord" width="32" align="center">  [`Server de Discord (Nueva comunidad)`](https://discord.gg/E2yBpMq2Km)
-   
-   <br />
-   
-   <div>
-  <br />
-  <p>
-    <a href="https://discord.gg/E2yBpMq2Km"><img src="https://discord.com/api/guilds/880947411432923136/embed.png?style=banner3" alt="Discord" /></a>
-  </p>
-  </div>
-  
-   <br />
-   
-   ## Tecnologías 🍺
-   
-   ### Lenguajes, frameworks y librerías 😁
-
-![Javascript](https://img.shields.io/static/v1?label=JavaScript&message=JavaScript%20☕&style=for-the-badge&color=F7DF1E&logo=JavaScript)
-![Typescript](https://img.shields.io/static/v1?label=TypeScript&message=TypeScript%20>4.0%20🎏&color=007ACC&style=for-the-badge&logo=typescript)
-![Java](https://img.shields.io/static/v1?label=Java&message=Java%20☕&style=for-the-badge&color=f89820&logo=java) 
-![HTML5](https://img.shields.io/static/v1?label=HTML&message=HTML%20es%20un%20lenguaje%3F%20❓❔&style=for-the-badge&color=F16529&logo=html5) 
-![CSS3](https://img.shields.io/static/v1?label=CSS&message=CSS3%20🎨&style=for-the-badge&color=2965f1&logo=css3)
-![Python](https://img.shields.io/static/v1?label=Python&message=Python%203.x%20🐍&style=for-the-badge&color=3776AB&logo=python)
-![vuejs](https://img.shields.io/static/v1?label=vue&message=Vue%20JS%20✌️&style=for-the-badge&color=4FC08D&logo=vue)
-![React](https://img.shields.io/static/v1?label=React&message=React%20☢📻&style=for-the-badge&color=61DBFB&logo=react) 
-![discord.js](https://img.shields.io/static/v1?label=discord&message=Discord.JS%20💬&style=for-the-badge&color=5865F2&logo=discord)
-
-### Editor de código 🔷
-![VSCode](https://img.shields.io/static/v1?label=VSCode&message=Mi%20editor%20🧻&style=for-the-badge&color=1e88e5&logo=visual-studio-code)
-
-### Sistema operativo 🐧
-![linux](https://img.shields.io/static/v1?label=Linux&message=Ubuntu%2021.10%20🐧&style=for-the-badge&color=FCC624&logo=linux)
-![kde](https://img.shields.io/static/v1?label=KDE&message=Alguna%20versión%20de%20KDE%20Plasma%20⚙️&style=for-the-badge&color=1e88e5&logo=KDE)
-
-### Otras tecnologías 🧵
-![Nodejs](https://img.shields.io/static/v1?label=Nodejs&message=node%20src%2Fgátomo.js%20😸&color=68a063&style=for-the-badge&logo=Node.js)
-![yarn](https://img.shields.io/static/v1?label=yarn&message=Package%20manager%20🐱&color=2C8EBB&style=for-the-badge&logo=yarn)
-![MongoDB](https://img.shields.io/static/v1?label=MongoDB&message=Mongo%20DB%20🍃&style=for-the-badge&color=3FA037&logo=MongoDB)
-![Git](https://img.shields.io/static/v1?label=Git&message=Fork%20this%20repo%20🍴&style=for-the-badge&color=f34f29&logo=git)
-![GitHub](https://img.shields.io/static/v1?label=GitHub&message=github.com%2Fgatomo-oficial%20🐱🐙&style=for-the-badge&color=fff&logo=github)
-![Heroku](https://img.shields.io/static/v1?label=Heroku&message=Heroku%20👘&style=for-the-badge&color=430098&logo=Heroku)
-
-
-
-
+👋Hola, soy **Gátomo**, un **estudiante de informática español** al que le gusta programar en sus tiempos libres.
+Tengo conocimientos medios en **`TypeScript`** y **`JavaScript`** y unos mínimos conocimientos de **`Java`**, **`Python`**, **`Lua`** y **`C`**
 
 <br />
 
-## Futuros planes 🏞️
-Para el futuro quiero aprender C
+## 🏕️・Sobre mí
+- 💬 Soy muy activo en **Discord**, donde tengo una comunidad con más de 400 miembros y un bot verificado.
+- 🐸 Mis series favoritas son **Amphibia** y **Los Simpsons**, sobre todo la primera
+- 🐧 Mi sistema operativo principal es **Linux**, en concreto, la distro **Manjaro**
+- ⛏️ No suelo jugar, pero me gusta mucho **Minecraft**, administro un server llamado **AntarCraft**
 
-## GitHub Stats ✨
+<br />
+
+## 📬・ Discord
+[![Discord Presence](https://lanyard.cnrad.dev/api/685947556655923242?bg=0f172a&animated=true&idleMessage=Pulsa%20para%20entrar%20a%20mi%20comunidad)](https://discord.gg/E2yBpMq2Km)
+<div>
+	<br />
+	<p>
+		<a href="https://discord.gg/E2yBpMq2Km"><img src="https://discord.com/api/guilds/880947411432923136/embed.png?style=banner3" alt="Discord" /></a>
+	</p>
+</div>
+
+<br />
+
+## 🍺・Tecnologías
+### Lenguajes
+<div>
+	<p>
+		<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+		<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+		<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+		<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+		<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+		<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+		<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+		<img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" />
+		<img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />
+		<img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+	</p>
+</div>
+<div>
+	<p>
+	</p>
+</div>
+
+
+### Frameworks y librerías
+<div>
+	<p>
+		<img src="https://img.shields.io/badge/Discord.js-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />
+		<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+		<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+		<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+		<img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
+		<img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" />
+	</p>
+</div>
+
+
+### Editores / IDEs
+#### MI editor principal / actual
+<div>
+	<p>
+	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+	</p>
+</div>
+
+#### Otros editores
+<div>
+	<p>
+	<img src="https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white" />
+	<img src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" />
+	<img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" />
+	<img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+	<img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" />
+	</p>
+</div>
+
+
+### Sistemas
+#### Mi sistema principal / actual
+<div>
+	<p>
+		<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+		<img src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white" />
+		<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+	</p>
+</div>
+
+#### Otros sistemas
+<div>
+	<p>
+		<img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge" />
+		<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+		<img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" />
+		<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+		<img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" />
+	</p>
+</div>
+
+
+### Navegadores
+<div>
+	<p>
+		<img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" />
+		<img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" />
+	</p>
+</div>
+
+
+### Otras tegnologías
+<div>
+	<p>
+		<img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" />
+		<img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" />
+	</p>
+</div>
+<div>
+	<p>
+		<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+	</p>
+</div>
+
+<div>
+	<p>
+		<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+		<img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
+		<img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
+	</p>
+</div>
+
+<div>
+	<p>
+		<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+		<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+	</p>
+</div>
+
+<div>
+	<p>
+		<img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" />
+		<img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" />
+		<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+	</p>
+</div>
+
+<br />
+
+## 📊・Estadísticas de GitHub
 
 <table>
   <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=gatomo-oficial&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&theme=react&hide_border=true&hide_title=true&count_private=true" />
-    </td>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=gatomo-oficial&layout=compact&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&theme=react&hide_border=true&count_private=true&extra=normal-project/Normal;normal-project/Normal" />
-    </td>
+	<td align="center" style="padding=0;width=50%;">
+	  <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=gatomo-oficial&show_icons=true&title_color=60a5fa&text_color=f8fafc&theme=react&hide_border=true&count_private=true&bg_color=0f172a" />
+	</td>
+	<td align="center" style="padding=0;width=50%;">
+	  <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gatomo-oficial&title_color=60a5fa&text_color=f8fafc&theme=react&hide_border=true&count_private=true&layout=compact&bg_color=0f172a" height="180" />
+	</td>
   </tr>
 </table>
 
-El github se me ha bugeado y me pone mucho CSS xd
+<br />
 <br />
 
-
-## Imagen personal(mentira xd) 📸
-[![BrUh](https://cdn.discordapp.com/attachments/707537070641381438/763377999122137108/3maipx.jpg)](https://cdn.discordapp.com/attachments/707537070641381438/763377999122137108/3maipx.jpg)
+## Cuídate 🤗
 
 <br />
 <br />
 
-# Te me cuidas mi pana 🍞 
-
-<br />
-<br />
-
-> Estadisticas: [`GitHub Readme Stats`](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
-  <a href="https://github.com/gatomo-oficial">
-    <img alt="Github Followers" src="https://img.shields.io/github/followers/gatomo-oficial?logo=github&style=for-the-badge" />
-  </a>
-  <a href="https://discord.gg/NmW8kYv">
-    <img alt="Discord" src="https://img.shields.io/discord/880947411432923136?logo=Discord&style=for-the-badge" />
-  </a>   
-   <p align="center">
-    <a href="https://github.com/gatomo-oficial">
-    <img alt="Visitor Badge" src="https://visitor-badge.laobi.icu/badge?page_id=gatomo-oficial.gatomo-oficial" />
-  </a>
-   </p>
+	<a>
+		<p align="center">Estadísticas:
+			<a href="https://github.com/anuraghazra/github-readme-stats">GitHub Readme Stats</a>	
+		</p>
+	</a>
+	<p align="center">
+		<a  href="https://github.com/gatomo-oficial">
+			<img alt="Github Followers" src="https://img.shields.io/github/followers/gatomo-oficial?logo=github&style=for-the-badge" />
+		</a>
+	</p>
+	<p align="center">
+		<a href="https://github.com/gatomo-oficial">
+			<img alt="Visitor Badge" src="https://visitor-badge.laobi.icu/badge?page_id=gatomo-oficial.gatomo-oficial" />
+		</a>
+	</p>
 </p>
 
