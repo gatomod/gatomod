@@ -17,6 +17,20 @@ Tengo conocimientos medios en **`TypeScript`** y **`JavaScript`** y unos mínimo
 
 <br />
 
+## 🛠️・Proyectos
+### Actualmente trabajando
+- 😺 [**Normal**](https://github.com/normal-project) Bot multifunciones de Discord en español y verificado
+- 🐸 **The Frog** En desarrollo, no desvelaré... 🤫
+
+### Otros proyectos
+- ⏱️ [Time to sleep](https://github.com/gatomo-oficial/time-to-sleep) Apaga el PC con un temporizador. Sin complicaciones ni funciones basura
+- [vsnice](https://github.com/gatomo-oficial/vsnice) Cambia la prioridad de vscode en Linux si va lento
+- [uncolor](https://github.com/gatomo-oficial/uncolor) Alternativa a Colorama. Colorea la consola de Python de forma sencilla
+- [Rusia vs Mundo](https://github.com/gatomo-oficial/rusia_vs_mundo) Juego que programé un año antes de la guerra 🇺🇦 **Paz.** Minijuego de estrategia por CLI
+- [Contador de dinero](https://github.com/gatomo-oficial/Contador-de-dinero) Mi primer proyecto de Java. Cuenta el dinero según la cantidad de monedas que tengas
+
+<br />
+
 ## 📬・ Discord
 [![Discord Presence](https://lanyard.cnrad.dev/api/685947556655923242?bg=0f172a&animated=true&idleMessage=Pulsa%20para%20entrar%20a%20mi%20comunidad)](https://discord.gg/E2yBpMq2Km)
 <div>
