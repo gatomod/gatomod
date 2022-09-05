@@ -1,10 +1,6 @@
-<div>
-	<p align="center">
-		<img src="https://cdn.discordapp.com/attachments/707537070641381438/1006633524733952091/Component_1.png" />
-	</p>
-</div>
 
-# 👋 Hola, soy **Gátomo**, un **estudiante de informática español** al que le gusta programar en sus tiempos libres.
+
+### 👋 Hola, soy **Gátomo**, un **estudiante de informática español** al que le gusta programar en sus tiempos libres.
 Tengo conocimientos medios en **`TypeScript`** y **`JavaScript`** y unos mínimos conocimientos de **`Java`**, **`Python`**, **`Lua`** y **`C`**
 
 <br />
