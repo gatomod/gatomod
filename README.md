@@ -16,6 +16,7 @@ Tengo conocimientos medios en **`TypeScript`** y **`JavaScript`** y unos mínimo
 ## 🛠️・Proyectos
 ### Actualmente trabajando
 - 😺 [**Normal**](https://github.com/normal-project) Bot multifunciones de Discord en español y verificado
+- ➕ **Minimalist newtab** Una página de nueva pestaña minimalista y personalizable. Próximamente en GitHub...
 - 🐸 **The Frog** En desarrollo, no desvelaré... 🤫
 
 ### Otros proyectos
