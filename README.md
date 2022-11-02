@@ -1,7 +1,8 @@
 
 
 ### [👋 Hola, soy **Gátomo**](https://gatomo.ga/), un **estudiante de informática español** al que le gusta programar en sus tiempos libres.
-Tengo conocimientos medios en **`TypeScript`** y **`JavaScript`** y unos mínimos conocimientos de **`Java`**, **`Python`**, **`Lua`** y **`C`**
+Tengo conocimientos medios en **`TypeScript`** y **`JavaScript`** y unos mínimos conocimientos de **`Java`**, **`Python`**y **`C`**.
+Ahora mismo estoy aprendiendo **`Rust`** y un poco de **`Elixir`**.
 
 <br />
 
