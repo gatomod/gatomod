@@ -24,6 +24,13 @@ In addition, I understand hardware, network, Linux, Windows, user management (LD
 
 <br />
 
+## 🛠️ Last project
+### [**FFtools**](https://github.com/gatomo-oficial/fftools)
+
+FFMPEG-based toolkit for easy media manipulation
+
+<br />
+
 ## 🥶 Status
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/685947556655923242?bg=0f172a&animated=true&idleMessage=Click%20to%20join%20my%20community)](https://discord.gg/E2yBpMq2Km)
