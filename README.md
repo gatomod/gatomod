@@ -20,8 +20,8 @@ In addition, I understand hardware, network, Linux, Windows, user management (LD
 
 <br />
 
-## 🍃 Work
-- DXC Technology (now)
+## 🍃 Work experience
+- **`2023 - Now`** DXC Technology
 
 <br />
 
