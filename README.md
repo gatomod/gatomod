@@ -10,13 +10,10 @@ I also know a few of **`Java`**, **`Python`**, **`C`** and **`Elixir`**.
 
 In addition, I understand hardware, network, Linux, Windows, user management (LDAP), databases (MongoDB, Cassandra, MySQL) and more...
 
-
-
-
-
 <br />
 
 ## 😺 About me
+- Working at DXC Technology
 - *Soy español*
 - I use Linux (Manjaro) as main OS
 - I really like Amphibia and The Simpsons
