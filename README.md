@@ -13,11 +13,15 @@ In addition, I understand hardware, network, Linux, Windows, user management (LD
 <br />
 
 ## 😺 About me
-- Working at DXC Technology
 - *Soy español*
 - I use Linux (Manjaro) as main OS
 - I really like Amphibia and The Simpsons
 - I usually play Minecraft
+
+<br />
+
+## 🍃 Work
+- DXC Technology (now)
 
 <br />
 
