@@ -1,50 +1,16 @@
-
-
-# 👋 [ Hi, I'm **Gátomo**](https://gatomo.ga/)
+## 👋 Hi there!
 
 **[Web](https://gatomo.ga) - [Discord](https://gatomo.ga/discord) - [Revolt](https://gatomo.ga/revolt)**
 
 I'm a 17 years old Spanish computing student who likes to program in his free time.
-I have knowledge in many languages, but specially in **`TypeScript`** and **`Rust`**.
-I also know a few of **`Java`**, **`Python`**, **`C`** and **`Elixir`**.
+I enjoy learning new things and sharing my projects. Out of programming world, I love cats, walk, play some games and a frog show.
 
-In addition, I understand hardware, network, Linux, Windows, user management (LDAP), databases (MongoDB, Cassandra, MySQL) and more...
+I have knowledge in languages like **`TypeScript`**, **`Rust`**, **`Java`**, **`Python`**, **`C`**, **`Elixir`** and **`Kotlin`**.
+In addition, I understand hardware, network, Linux, Windows, Active Directory, databases (MongoDB, Cassandra, MySQL) and more...
 
-<br />
+Actually I'm working at DXC Technology as part of internship.
 
-## 😺 About me
-- *Soy español*
-- I use Linux (Manjaro) as main OS
-- I really like Amphibia and The Simpsons
-- I usually play Minecraft
-
-<br />
-
-## 🍃 Work experience
-- **`2023 - Now`** DXC Technology
-
-<br />
-
-## 🛠️ Last project
-### [**FFtools**](https://github.com/gatomod/fftools)
-
-FFMPEG-based toolkit for easy media manipulation
-
-<br />
-
-## 🥶 Status
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/685947556655923242?bg=0f172a&animated=true&idleMessage=Click%20to%20join%20my%20community)](https://discord.gg/E2yBpMq2Km)
-
-## 💬 Social
-- [Discord](https://gatomo.ga/discord)
-- [Revolt](https://gatomo.ga/revolt)
-- [Reddit](https://www.reddit.com/user/gatomo_oficial)
-
-<br />
-
-## 📊 GitHub Statistics
-
+### 📊 GitHub Statistics
 <table>
   <tr>
 	<td align="center" style="padding=0;width=50%;">
