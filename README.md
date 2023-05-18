@@ -26,7 +26,7 @@ In addition, I understand hardware, network, Linux, Windows, user management (LD
 <br />
 
 ## 🛠️ Last project
-### [**FFtools**](https://github.com/gatomo-oficial/fftools)
+### [**FFtools**](https://github.com/gatomod/fftools)
 
 FFMPEG-based toolkit for easy media manipulation
 
@@ -48,19 +48,16 @@ FFMPEG-based toolkit for easy media manipulation
 <table>
   <tr>
 	<td align="center" style="padding=0;width=50%;">
-	  <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=gatomo-oficial&show_icons=true&title_color=60a5fa&text_color=f8fafc&theme=react&hide_border=true&count_private=true&bg_color=0f172a" height="180" />
+	  <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=gatomod&show_icons=true&title_color=60a5fa&text_color=f8fafc&theme=react&hide_border=true&count_private=true&bg_color=0f172a" height="180" />
 	</td>
 	<td align="center" style="padding=0;width=50%;">
-	  <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gatomo-oficial&title_color=60a5fa&text_color=f8fafc&theme=react&hide_border=true&count_private=true&layout=compact&bg_color=0f172a" height="180" />
+	  <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gatomod&title_color=60a5fa&text_color=f8fafc&theme=react&hide_border=true&count_private=true&layout=compact&bg_color=0f172a" height="180" />
 	</td>
   </tr>
 </table>
 
 <br />
 
-![Followers](https://img.shields.io/github/followers/gatomo-oficial?logo=github&style=for-the-badge)
-
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=gatomo-oficial.gatomo-oficial)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fgatomod&label=Visitors%20(since%20May%202023)&countColor=%23263759)
 
 
