@@ -8,7 +8,7 @@ I enjoy learning new things and sharing my projects. Out of programming world, I
 I have knowledge in languages like **`TypeScript`**, **`Rust`**, **`Java`**, **`Python`**, **`C`**, **`Elixir`** and **`Kotlin`**.
 In addition, I understand hardware, network, Linux, Windows, Active Directory, databases (MongoDB, Cassandra, MySQL) and more...
 
-Actually I'm working at DXC Technology as part of internship.
+Actually I'm working at DXC Technology as part of internship. I won't be available for hire in a few years due to studies and work.
 
 ### 📊 GitHub Statistics
 <table>
