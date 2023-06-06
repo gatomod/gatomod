@@ -1,6 +1,6 @@
 ## 👋 Hi there!
 
-**[Web](https://gatomo.ga) - [Discord](https://gatomo.ga/discord) - [Revolt](https://gatomo.ga/revolt)**
+**[Discord](https://gatomo.ga/discord) - [Revolt](https://gatomo.ga/revolt)**
 
 I'm a 17 years old Spanish computing student who likes to program in his free time.
 I enjoy learning new things and sharing my projects. Out of programming world, I love cats, walk, play some games and a frog show.
