@@ -1,14 +1,26 @@
-## 👋 Hi there!
+# 👋 Hi there!
 
 **[Discord](https://gatomo.ga/discord) - [Revolt](https://gatomo.ga/revolt)**
 
+### 🍻 About me
 I'm a 17 years old Spanish computing student who likes to program in his free time.
 I enjoy learning new things and sharing my projects. Out of programming world, I love cats, walk, play some games and a frog show.
 
+
+### 🍃 Skills
 I have knowledge in languages like **`TypeScript`**, **`Rust`**, **`Java`**, **`Python`**, **`C`**, **`Elixir`** and **`Kotlin`**.
 In addition, I understand hardware, network, Linux, Windows, Active Directory, databases (MongoDB, Cassandra, MySQL) and more...
 
+
+### 🛠️ Work experience
 Actually I'm working at DXC Technology as part of internship. I won't be available for hire in a few years due to studies and work.
+
+
+### 🎍 Projects
+I develop small projects to learn and improve my skills.
+- Last project: [TCP Chat](https://github.com/gatomod/tcp-chat)
+- Working on: [Oasis](https://github.com/oasis-pkg/oasis)
+
 
 ### 📊 GitHub Statistics
 <table>
