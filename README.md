@@ -19,7 +19,7 @@ Actually I'm working at DXC Technology as part of internship. I won't be availab
 ### 🎍 Projects
 I develop small projects to learn and improve my skills.
 - Last project: [TCP Chat](https://github.com/gatomod/tcp-chat)
-- Working on: [Oasis](https://github.com/oasis-pkg/oasis)
+- Working on: *Something new...*
 
 
 ### 📊 GitHub Statistics
