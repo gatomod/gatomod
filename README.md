@@ -1,26 +1,37 @@
 # 👋 Hi there!
 
-**[Discord](https://gatomo.ga/discord) - [Revolt](https://gatomo.ga/revolt)**
-
 ### 🍻 About me
 I'm a 17 years old Spanish computing student who likes to program in his free time.
+
 I enjoy learning new things and sharing my projects. Out of programming world, I love cats, walk, play some games and a frog show.
 
+</br>
 
 ### 🍃 Skills
 I have knowledge in languages like **`TypeScript`**, **`Rust`**, **`Java`**, **`Python`**, **`C`**, **`Elixir`** and **`Kotlin`**.
-In addition, I understand hardware, network, Linux, Windows, Active Directory, databases (MongoDB, Cassandra, MySQL) and more...
 
+In addition, I understand about hardware, Linux, Windows, user management (Active Directory, LDAP), databases (MongoDB, Cassandra (and Scylla), MySQL), network (hardware, protocols, services) and more...
+
+</br>
 
 ### 🛠️ Work experience
-Actually I'm working at DXC Technology as part of internship. I won't be available for hire in a few years due to studies and work.
+I work in other things, but this is my experience at tech world.
 
+- `03/23 - 06/23` DXC Technology (as part of internship)
+
+</br>
 
 ### 🎍 Projects
 I develop small projects to learn and improve my skills.
 - Last project: [TCP Chat](https://github.com/gatomod/tcp-chat)
-- Working on: *Something new...*
+- Working on: [Voiceland](https://github.com/corenight/voiceland)
 
+</br>
+
+### 📬 Contact
+You can contact with me via [Discord server](https://discord.gg/E2yBpMq2Km) or the epic FOSS alternative [Revolt server](https://rvlt.gg/KFKFbrZm).
+
+</br>
 
 ### 📊 GitHub Statistics
 <table>
