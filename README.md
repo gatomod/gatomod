@@ -29,7 +29,7 @@ I develop small projects to learn and improve my skills.
 
 
 ### 📬 Contact
-You can contact with me via [Discord server](https://discord.gg/E2yBpMq2Km) or the epic FOSS alternative [Revolt server](https://rvlt.gg/KFKFbrZm).
+You can contact me via [Discord server](https://discord.gg/E2yBpMq2Km) or the epic FOSS alternative [Revolt server](https://rvlt.gg/KFKFbrZm).
 
 
 
