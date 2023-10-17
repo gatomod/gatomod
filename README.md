@@ -3,19 +3,19 @@
 ### 🍻 About me
 I'm a 17 years old Spanish computing student who likes to program in his free time.
 
-I enjoy learning new things and sharing my projects. Out of programming world, I love cats, walk, play some games and a frog show.
+I enjoy learning new things and sharing my projects. Out of programming world, I love cats, hike, play some games and a frog show.
 
 
 
 ### 🍃 Skills
-I have knowledge in languages like **`TypeScript`**, **`Rust`**, **`Java`**, **`Python`**, **`C`**, **`Elixir`** and **`Kotlin`**.
+I have knowledge in languages like **`Rust`**, **`TypeScript`**, **`Java`**, **`Python`**, **`C`**, **`Elixir`** and **`Kotlin`** and I don't have problem learning new languages.
 
 In addition, I understand about hardware, Linux, Windows, user management (Active Directory, LDAP), databases (MongoDB, Cassandra (and Scylla), MySQL), network (hardware, protocols, services) and more...
 
 
 
 ### 🛠️ Work experience
-I work in other things, but this is my experience at tech world.
+I work at other things, but this is my experience at tech world.
 
 - `03/23 - 06/23` DXC Technology (as part of internship)
 
