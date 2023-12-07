@@ -10,8 +10,7 @@ I enjoy learning new things and sharing my projects. Out of programming world, I
 ### 🍃 Skills
 I have knowledge in several languages like **`Rust`**, **`TypeScript`**, **`Java`**, **`Python`**, **`C`**, **`Elixir`** and **`Kotlin`** and I don't have problem learning new languages.
 
-In addition, I understand about hardware, Linux, Windows, user management (Active Directory, LDAP...), databases (MongoDB, Cassandra, Scylla, MySQL...), network (hardware, protocols, services...), AWS (EC2, S3, VPC, Lambda, RDS, DynamoDB...) and more...
-
+In addition, I understand about hardware, Linux, Windows, user management (Active Directory, LDAP...), databases (MongoDB, Cassandra, Scylla, MySQL...), network (hardware, protocols, services...), AWS (EC2, S3, VPC, Lambda, RDS, DynamoDB...), monitoring and support (ServiceNow, OTRS, Nagios, Grafana...) and more.
 
 
 ### 🛠️ Work experience
