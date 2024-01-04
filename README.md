@@ -1,9 +1,9 @@
-# 👋 Hi there!
+# [👋 Hi there!](https://gatomo.es)
 
 ### 🍻 About me
 I'm a 18 years old Spanish computing student who likes to program in his free time.
 
-I enjoy learning new things and sharing my projects. Out of programming world, I love cats, hike, play some games and a frog show.
+I enjoy learning new things and sharing my projects. Out of programming world, I love [this](https://www.youtube.com/watch?v=1LGVGekPSzo), cats, hike, play some games and a frog show.
 
 
 
