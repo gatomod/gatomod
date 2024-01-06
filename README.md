@@ -1,14 +1,14 @@
 # [👋 Hi there!](https://gatomo.es)
 
 ### 🍻 About me
-I'm a 18 years old Spanish computing student who likes to program in his free time.
+I'm an 18 years old Spanish computing student who likes to program in his free time.
 
 I enjoy learning new things and sharing my projects. Out of programming world, I love [this](https://www.youtube.com/watch?v=1LGVGekPSzo), cats, hike, play some games and a frog show.
 
 
 
 ### 🍃 Skills
-I have knowledge in several languages like **`Rust`**, **`TypeScript`**, **`Java`**, **`Python`**, **`C`**, **`Elixir`** and **`Kotlin`** and I don't have problem learning new languages.
+I have knowledge in several languages like **`Rust`**, **`TypeScript`**, **`Java`**, **`Python`**, **`C`**, **`Elixir`** and **`Kotlin`** and I don't have problems in learning new languages.
 
 In addition, I understand about hardware, Linux, Windows, user management (Active Directory, LDAP...), databases (MongoDB, Cassandra, Scylla, MySQL...), network (hardware, protocols, services...), AWS (EC2, S3, VPC, Lambda, RDS, DynamoDB...), monitoring and support (ServiceNow, OTRS, Nagios, Grafana...) and more.
 
