@@ -1,10 +1,9 @@
 # [👋 Hi there!](https://gatomo.es)
 
 ### 🍻 About me
-I'm a 18 years old Spanish computing student who likes to program in his free time.
+I'm an 18 years old Spanish computing student who likes to program in his free time.
 
 I enjoy learning new things and sharing my projects. Out of programming world, I love cats, hike, play some games and a frog show.
-
 
 
 ### 🍃 Skills
@@ -26,10 +25,10 @@ I develop small projects to learn and improve my skills.
 - Working on: [Voiceland](https://github.com/corenight/voiceland)
 
 
-
 ### 📬 Contact
-You can contact me via [Discord server](https://discord.gg/E2yBpMq2Km) or the epic FOSS alternative [Revolt server](https://rvlt.gg/KFKFbrZm).
+You can contact me via email: [hello@gatomo.es](mailto:hello@gatomo.es)
 
+You can also use my [Discord server](https://discord.gg/E2yBpMq2Km) or the epic FOSS alternative [Revolt server](https://rvlt.gg/KFKFbrZm).
 
 
 ### 📊 GitHub Statistics
